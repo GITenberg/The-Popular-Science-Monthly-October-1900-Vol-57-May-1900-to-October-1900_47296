@@ -1,10 +1,14 @@
 _repo: The-Popular-Science-Monthly-October-1900-Vol-57-May-1900-to-October-1900_47296
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Cattell, J McKeen
       gutenberg_agent_id: '44242'
       url: http://www.gutenberg.org/2009/agents/44242
+covers:
+- cover_type: archival
+  image_path: 47296-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -12,6 +16,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47296#The-Popular-Science-Monthly-October-1900-Vol-57-May-1900-to-October-1900
 gutenberg_issued: '2014-11-06'
 gutenberg_type: Text
 identifiers:
